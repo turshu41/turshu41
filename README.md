@@ -1,12 +1,10 @@
----
-
 <h3 align="center">🚀 Co-Founder of F4 Studio | Fullstack Developer | FiveM Systems Expert</h3>
 
-* 🔭 Currently working on high-performance custom scripts and systems at [**F4 Studio**](https://f4studio.tebex.io)
-* 💻 Specializing in **fullstack web development**, **FiveM scripting**, and **game server infrastructure**
-* 🌱 Expanding my skillset with **React**, while already experienced with **Vue.js** and modern front-end stacks
-* 📂 View all my work and products at [**f4studio.tebex.io**](https://f4studio.tebex.io)
-* 📫 Reach me at: **[ozgur.toksoylu41@gmail.com](mailto:ozgur.toksoylu41@gmail.com)**
+- 🔭 Currently working on high-performance custom scripts and systems at [**F4 Studio**](https://f4studio.tebex.io)  
+- 💻 Specializing in **fullstack web development**, **FiveM scripting**, and **game server infrastructure**  
+- 🌱 Expanding my skillset with **React**, while already experienced with **Vue.js** and modern front-end stacks  
+- 📂 View all my work and products at [**f4studio.tebex.io**](https://f4studio.tebex.io)  
+- 📫 Reach me at: **[ozgur.toksoylu41@gmail.com](mailto:ozgur.toksoylu41@gmail.com)**
 
 ---
 
