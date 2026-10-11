@@ -17,7 +17,7 @@
   <a href="https://www.youtube.com/@f4studios" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/f4studio" target="_blank">
+  <a href="https://discord.f4-studio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
